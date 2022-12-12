@@ -1,4 +1,4 @@
-<h1 align="left">HI! 👋  I'm Simon Bertoli - a developer from Melbourne, Aiustralia</h1>
+<h1 align="left">HI! 👋  I'm Simon Bertoli - a developer from Melbourne, Australia</h1>
 
 - 🔭 I’m currently working at <a href="https://pliny.com.au/">Pliny</a> as a Web Developer
 
