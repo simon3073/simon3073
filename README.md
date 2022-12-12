@@ -11,10 +11,23 @@
 - 📫 Reach me at **simonbertoli@yahoo.com.au**
 
 <br>
-<h3 align="left">📈 GitHub Stats</h3>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simon3073&theme=dark" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=simon3073&theme=dark" />
+<h3 align="left">🔧 Technologies & Tools</h3>
+<img align="left" src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=blue" /> 
+<img align="left" src="https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=blue" /> 
+<img align="left" src="https://img.shields.io/badge/Code-SASS-informational?style=flat&logo=sass&logoColor=white&color=blue" /> 
+<img align="left" src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blue" /> 
+<img align="left" src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=blue" /> 
+<img align="left" src="https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=blue" /> 
+<img align="left" src="https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=blue" /> 
+<img align="left" src="https://img.shields.io/badge/Platform-GitHub-informational?style=flat&logo=github&logoColor=white&color=blue" /> 
+<img align="left" src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudio&logoColor=white&color=blue" />
 
+
+<br><br>
+<h3 align="left">📈 GitHub Stats</h3>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simon3073&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=simon3073&theme=dark" />
+<br><br><br>
 
 <br>
 <h3 align="left">📇 Connect with me</h3>
